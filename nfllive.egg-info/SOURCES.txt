@@ -1,0 +1,9 @@
+README.md
+setup.py
+nfllive/__init__.py
+nfllive/hellonfl.py
+nfllive.egg-info/PKG-INFO
+nfllive.egg-info/SOURCES.txt
+nfllive.egg-info/dependency_links.txt
+nfllive.egg-info/requires.txt
+nfllive.egg-info/top_level.txt
